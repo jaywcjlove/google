@@ -14,7 +14,7 @@ interface DataItem {
 
 const App = () => (
   <div className={styles.warpper}>
-    <GitHubCorners fixed href="https://github.com/jaywcjlove/google" />
+    <GitHubCorners size={62} fixed href="https://github.com/jaywcjlove/google" />
     <header className={styles.header}>
       <Google />
     </header>
