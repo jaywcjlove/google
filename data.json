@@ -1,161 +1,780 @@
 {
-  "update": "",
+  "update": 1577722056368,
   "data": [
-    { "url": "https://www.teoma.com", "type": "web", "status": 200 },
-    { "url": "https://intelme.com", "type": "web", "status": 200 },
-    { "url": "https://skyn3t.in/srx", "type": "web", "status": 200 },
-    { "url": "https://suche.dasnetzundich.de", "type": "web", "status": 200 },
-    { "url": "https://searx.com.au", "type": "web", "status": 200 },
-    { "url": "https://burtrum.org/searx", "type": "web", "status": 200 },
-    { "url": "https://roteserver.de/searx", "type": "web", "status": 200 },
-    { "url": "https://srx.sx", "type": "web", "status": 200 },
-    { "url": "https://search.paulla.asso.fr", "type": "web", "status": 200 },
-    { "url": "https://search.spaeth.me", "type": "web", "status": 200 },
-    { "url": "https://seeks.hsbp.org", "type": "web", "status": 200 },
-    { "url": "https://searx.linux.pizza", "type": "web", "status": 200 },
-    { "url": "https://searx.gotrust.de", "type": "web", "status": 200 },
-    { "url": "https://trovu.komun.org", "type": "web", "status": 200 },
-    { "url": "http://so.hiqq.com.cn", "type": "scholar", "status": 200 },
-    { "url": "https://sci-hub.org.cn", "type": "scholar", "status": 200 },
-    { "url": "https://scholar.123admin.com", "type": "scholar", "status": 200 },
-    { "url": "http://www.ndtsg.com", "type": "scholar", "status": 200 },
-    { "url": "https://www.80xueshu.com", "type": "scholar", "status": 200 },
-    { "url": "https://xue.glgoo.org", "type": "scholar", "status": 200 },
-    { "url": "https://s0.unllu.com/", "type": "scholar", "status": 200 },
-    { "url": "https://xs.zb-welding.com/scholar", "type": "scholar", "status": 200 },
-    { "url": "https://searx.operationtulip.com", "type": "web", "status": 200 },
-    { "url": "https://search.st8.at", "type": "web", "status": 200 },
-    { "url": "https://mijisou.com", "type": "web", "status": 200 },
-    { "url": "https://haku.ahmia.fi", "type": "web", "status": 200 },
-    { "url": "https://google.nekoemtp.workers.dev", "type": "web", "status": 200 },
-    { "url": "http://baidu01.puataiwan.com", "type": "web", "status": 200 },
-    { "url": "https://gg.smiling.workers.dev", "type": "web", "status": 200 },
-    { "url": "https://www.gosearchresults.com", "type": "web", "status": 200 },
-    { "url": "https://lite.qwant.com", "type": "web", "status": 200 },
-    { "url": "https://seeres.com", "type": "web", "status": 200 },
-    { "url": "https://1.52qu.xyz", "type": "web", "status": 200 },
-    { "url": "https://guge.one", "type": "web", "status": 200 },
-    { "url": "https://nav.hiqq.com.cn/twy", "type": "web", "status": 200 },
-    { "url": "https://g.luciaz.me", "type": "web", "status": 200 },
-    { "url": "https://searx.xyz", "type": "web", "status": 200 },
-    { "url": "https://www.kuaimen.bid", "type": "web", "status": 200 },
-    { "url": "https://4.52qu.xyz", "type": "web", "status": 200 },
-    { "url": "https://b.glgoo.top/scholar", "type": "web", "status": 200 },
-    { "url": "https://c.glgoo.top/scholar", "type": "web", "status": 200 },
-    { "url": "https://cc.glgoo.top/scholar", "type": "web", "status": 200 },
-    { "url": "https://guge.schove.com", "type": "web", "status": 200 },
-    { "url": "http://so.hiqq.com.cn", "type": "web", "status": 200 },
-    { "url": "http://nav.hiqq.com.cn/twy", "type": "web", "status": 200 },
-    { "url": "https://searx.be", "type": "web", "status": 200 },
-    { "url": "https://searx.elukerio.org", "type": "web", "status": 200 },
-    { "url": "https://searx.libmail.eu", "type": "web", "status": 200 },
-    { "url": "https://search.snopyta.org", "type": "web", "status": 200 },
-    { "url": "https://searx.win", "type": "web", "status": 200 },
-    { "url": "https://search.galaxy.cat", "type": "web", "status": 200 },
-    { "url": "https://searx.info", "type": "web", "status": 200 },
-    { "url": "https://searx.tuxcloud.net", "type": "web", "status": 200 },
-    { "url": "https://searx.prvcy.eu", "type": "web", "status": 200 },
-    { "url": "https://search.stinpriza.org", "type": "web", "status": 200 },
-    { "url": "https://searx.site", "type": "web", "status": 200 },
-    { "url": "https://searx.mastodontech.de", "type": "web", "status": 200 },
-    { "url": "https://searx.solusar.de", "type": "web", "status": 200 },
-    { "url": "https://search.mdosch.de", "type": "web", "status": 200 },
-    { "url": "https://searx.decatec.de", "type": "web", "status": 200 },
-    { "url": "https://searx.dresden.network", "type": "web", "status": 200 },
-    { "url": "https://search.disroot.org", "type": "web", "status": 200 },
-    { "url": "https://rapu.nz", "type": "web", "status": 200 },
-    { "url": "https://searx.pofilo.fr", "type": "web", "status": 200 },
-    { "url": "https://unmonito.red", "type": "web", "status": 200 },
-    { "url": "https://searx.canox.net", "type": "web", "status": 200 },
-    { "url": "https://search.modalogi.com", "type": "web", "status": 200 },
-    { "url": "https://searx.pwoss.org", "type": "web", "status": 200 },
-    { "url": "https://searx.hlfh.space", "type": "web", "status": 200 },
-    { "url": "https://searx.xyz", "type": "web", "status": 200 },
-    { "url": "https://searx.nnto.net", "type": "web", "status": 200 },
-    { "url": "https://search.biboumail.fr", "type": "web", "status": 200 },
-    { "url": "https://www.perfectpixel.de/searx", "type": "web", "status": 200 },
-    { "url": "https://searx.zareldyn.net", "type": "web", "status": 200 },
-    { "url": "https://searx.li", "type": "web", "status": 200 },
-    { "url": "https://searx.envs.net", "type": "web", "status": 200 },
-    { "url": "https://dc.ax", "type": "web", "status": 200 },
-    { "url": "https://wtf.roflcopter.fr/searx", "type": "web", "status": 200 },
-    { "url": "https://s.cmd.gg", "type": "web", "status": 200 },
-    { "url": "https://searx.anongoth.pl", "type": "web", "status": 200 },
-    { "url": "https://searx.fr32k.de", "type": "web", "status": 200 },
-    { "url": "https://searx.nakhan.net", "type": "web", "status": 200 },
-    { "url": "https://search.datensturm.net", "type": "web", "status": 200 },
-    { "url": "https://searx.openpandora.org", "type": "web", "status": 200 },
-    { "url": "https://spot.ecloud.global", "type": "web", "status": 200 },
-    { "url": "https://search.lgbtq.cool", "type": "web", "status": 200 },
-    { "url": "https://suche.uferwerk.org", "type": "web", "status": 200 },
-    { "url": "https://searx.openhoofd.nl", "type": "web", "status": 200 },
-    { "url": "https://searx.ru", "type": "web", "status": 200 },
-    { "url": "https://searx.targaryen.house", "type": "web", "status": 200 },
-    { "url": "https://le-dahut.com/searx", "type": "web", "status": 200 },
-    { "url": "https://search.moravit.com", "type": "web", "status": 200 },
-    { "url": "https://zoek.anchel.nl", "type": "web", "status": 200 },
-    { "url": "https://search.seds.nl", "type": "web", "status": 200 },
-    { "url": "https://openworlds.info", "type": "web", "status": 200 },
-    { "url": "https://dynabyte.ca", "type": "web", "status": 200 },
-    { "url": "https://searx.foo.li", "type": "web", "status": 200 },
-    { "url": "https://www.skyn3t.in/search", "type": "web", "status": 200 },
-    { "url": "https://searx.me", "type": "web", "status": 200 },
-    { "url": "https://www.searx.de", "type": "web", "status": 200 },
-    { "url": "https://ai.deafpray.wtf/searx", "type": "web", "status": 200 },
-    { "url": "https://searx.mxchange.org", "type": "web", "status": 200 },
-    { "url": "https://timdor.noip.me/searx", "type": "web", "status": 200 },
-    { "url": "https://search.activemail.de", "type": "web", "status": 200 },
-    { "url": "https://bamboozle.it", "type": "web", "status": 200 },
-    { "url": "https://searx.ouahpiti.info", "type": "web", "status": 200 },
-    { "url": "https://searx.laquadrature.net", "type": "web", "status": 200 },
-    { "url": "https://search.poal.co", "type": "web", "status": 200 },
-    { "url": "https://null.media", "type": "web", "status": 200 },
-    { "url": "https://search.dominikschroeck.de", "type": "web", "status": 200 },
-    { "url": "https://searx.lynnesbian.space", "type": "web", "status": 200 },
-    { "url": "https://searx.john-at-me.net", "type": "web", "status": 200 },
-    { "url": "https://search.anonymize.com", "type": "web", "status": 200 },
-    { "url": "https://search.azkware.net", "type": "web", "status": 200 },
-    { "url": "https://searx.everdot.org", "type": "web", "status": 200 },
-    { "url": "https://jsearch.pw", "type": "web", "status": 200 },
-    { "url": "https://www.searxs.eu", "type": "web", "status": 200 },
-    { "url": "https://search.nebulacentre.net", "type": "web", "status": 200 },
-    { "url": "https://search.fossdaily.xyz", "type": "web", "status": 200 },
-    { "url": "https://search.wxzm.sx", "type": "web", "status": 200 },
-    { "url": "https://search.gibberfish.org", "type": "web", "status": 200 },
-    { "url": "https://goso.ga", "type": "web", "status": 200 },
-    { "url": "https://searx.lavatech.top", "type": "web", "status": 200 },
-    { "url": "https://searchx.mobi", "type": "web", "status": 200 },
-    { "url": "https://searx.run", "type": "web", "status": 200 },
-    { "url": "https://searx.wegeeks.win", "type": "web", "status": 200 },
-    { "url": "https://searx.world", "type": "web", "status": 200 },
-
-    { "url": "https://g2.wen.lu", "type": "web", "status": 400 },
-    { "url": "http://gc.ihuan.me", "type": "web", "status": 400 },
-    { "url": "http://ggss.cf", "type": "web", "status": 400 },
-    { "url": "http://hao.cytbj.com", "type": "web", "status": 400 },
-    { "url": "http://jgoproxy.tk", "type": "web", "status": 400 },
-    { "url": "http://s.8090st.com", "type": "web", "status": 400 },
-    { "url": "https://www.wacao.org", "type": "web", "status": 400 },
-    { "url": "http://www.g363.com", "type": "web", "status": 400 },
-    { "url": "http://g.helloit.info", "type": "web", "status": 400 },
-    { "url": "https://g.jikewenku.cn", "type": "web", "status": 400 },
-    { "url": "https://www.guge.xxx", "type": "web", "status": 400 },
-    { "url": "https://g.libnull.com", "type": "web", "status": 400 },
-    { "url": "http://ssdao.cdjltz.com", "type": "web", "status": 400 },
-    { "url": "https://global.gogfw.com", "type": "web", "status": 400 },
-    { "url": "https://www.onk6.com", "type": "web", "status": 400 },
-    { "url": "http://www.hntvchina.com", "type": "web", "status": 400 },
-    { "url": "https://g.zrj766.com", "type": "web", "status": 400 },
-    { "url": "https://g.alexyang.me", "type": "web", "status": 400 },
-    { "url": "https://ggso.in", "type": "web", "status": 400 },
-    { "url": "http://www.bjgong.tk", "type": "web", "status": 400 },
-    { "url": "http://scholar.hntvchina.com", "type": "web", "status": 400 },
-    { "url": "https://ggss.ml", "type": "web", "status": 400 },
-    { "url": "https://fuckgfw.ggss.cf", "type": "web", "status": 400 },
-    { "url": "https://g.jikewenku.cn", "type": "web", "status": 400 },
-    { "url": "http://www.mrba.com.cn", "type": "web", "status": 400 },
-    { "url": "http://hi18.cn", "type": "web", "status": 400 },
-    { "url": "http://www.gusou.co", "type": "web", "status": 400 },
-    { "url": "https://fengfei.org", "type": "web", "status": 400 }
+    {
+      "url": "https://www.teoma.com",
+      "type": "web",
+      "status": 408
+    },
+    {
+      "url": "https://intelme.com",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://skyn3t.in/srx",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://suche.dasnetzundich.de",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.com.au",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://burtrum.org/searx",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://roteserver.de/searx",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://srx.sx",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.paulla.asso.fr",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.spaeth.me",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://seeks.hsbp.org",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.linux.pizza",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.gotrust.de",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://trovu.komun.org",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "http://so.hiqq.com.cn",
+      "type": "scholar",
+      "status": 200
+    },
+    {
+      "url": "https://sci-hub.org.cn",
+      "type": "scholar",
+      "status": 200
+    },
+    {
+      "url": "https://scholar.123admin.com",
+      "type": "scholar",
+      "status": 200
+    },
+    {
+      "url": "http://www.ndtsg.com",
+      "type": "scholar",
+      "status": 200
+    },
+    {
+      "url": "https://www.80xueshu.com",
+      "type": "scholar",
+      "status": 200
+    },
+    {
+      "url": "https://xue.glgoo.org",
+      "type": "scholar",
+      "status": 200
+    },
+    {
+      "url": "https://s0.unllu.com/",
+      "type": "scholar",
+      "status": 200
+    },
+    {
+      "url": "https://xs.zb-welding.com/scholar",
+      "type": "scholar",
+      "status": 200
+    },
+    {
+      "url": "https://searx.operationtulip.com",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.st8.at",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://mijisou.com",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://haku.ahmia.fi",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://google.nekoemtp.workers.dev",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "http://baidu01.puataiwan.com",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://gg.smiling.workers.dev",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://www.gosearchresults.com",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://lite.qwant.com",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://seeres.com",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://1.52qu.xyz",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://guge.one",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://nav.hiqq.com.cn/twy",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://g.luciaz.me",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.xyz",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://www.kuaimen.bid",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://4.52qu.xyz",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://b.glgoo.top/scholar",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://c.glgoo.top/scholar",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://cc.glgoo.top/scholar",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://guge.schove.com",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "http://so.hiqq.com.cn",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "http://nav.hiqq.com.cn/twy",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.be",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.elukerio.org",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.libmail.eu",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.snopyta.org",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.win",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.galaxy.cat",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.info",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.tuxcloud.net",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.prvcy.eu",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.stinpriza.org",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.site",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.mastodontech.de",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.solusar.de",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.mdosch.de",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.decatec.de",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.dresden.network",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.disroot.org",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://rapu.nz",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.pofilo.fr",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://unmonito.red",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.canox.net",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.modalogi.com",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.pwoss.org",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.hlfh.space",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.xyz",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.nnto.net",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.biboumail.fr",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://www.perfectpixel.de/searx",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.zareldyn.net",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.li",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.envs.net",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://dc.ax",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://wtf.roflcopter.fr/searx",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://s.cmd.gg",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.anongoth.pl",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.fr32k.de",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.nakhan.net",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.datensturm.net",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.openpandora.org",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://spot.ecloud.global",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.lgbtq.cool",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://suche.uferwerk.org",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.openhoofd.nl",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.ru",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.targaryen.house",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://le-dahut.com/searx",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.moravit.com",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://zoek.anchel.nl",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.seds.nl",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://openworlds.info",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://dynabyte.ca",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.foo.li",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://www.skyn3t.in/search",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.me",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://www.searx.de",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://ai.deafpray.wtf/searx",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.mxchange.org",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://timdor.noip.me/searx",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.activemail.de",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://bamboozle.it",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.ouahpiti.info",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.laquadrature.net",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.poal.co",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://null.media",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.dominikschroeck.de",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.lynnesbian.space",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.john-at-me.net",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.anonymize.com",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.azkware.net",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.everdot.org",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://jsearch.pw",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://www.searxs.eu",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.nebulacentre.net",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.fossdaily.xyz",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.wxzm.sx",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://search.gibberfish.org",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://goso.ga",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.lavatech.top",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searchx.mobi",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.run",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.wegeeks.win",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://searx.world",
+      "type": "web",
+      "status": 200
+    },
+    {
+      "url": "https://g2.wen.lu",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "http://gc.ihuan.me",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "http://ggss.cf",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "http://hao.cytbj.com",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "http://jgoproxy.tk",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "http://s.8090st.com",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "https://www.wacao.org",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "http://www.g363.com",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "http://g.helloit.info",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "https://g.jikewenku.cn",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "https://www.guge.xxx",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "https://g.libnull.com",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "http://ssdao.cdjltz.com",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "https://global.gogfw.com",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "https://www.onk6.com",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "http://www.hntvchina.com",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "https://g.zrj766.com",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "https://g.alexyang.me",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "https://ggso.in",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "http://www.bjgong.tk",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "http://scholar.hntvchina.com",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "https://ggss.ml",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "https://fuckgfw.ggss.cf",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "https://g.jikewenku.cn",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "http://www.mrba.com.cn",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "http://hi18.cn",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "http://www.gusou.co",
+      "type": "web",
+      "status": 400
+    },
+    {
+      "url": "https://fengfei.org",
+      "type": "web",
+      "status": 400
+    }
   ]
 }
