@@ -16,6 +16,10 @@ async function getWebStatus(url) {
     console.log('done!');
     return;
   }
+  if (urlData[0] && urlData[0].status === 110) {
+    console.log(':log:', urlData[0].status, url, ((new Date().getTime()) - time) / 1000, '该网站已被拦截');
+    return;
+  }
   const browser = await puppeteer.launch();
   let status = 0;
   try {
@@ -47,6 +51,10 @@ async function getWebStatus(url) {
   dataStatus = dataStatus.map(item => {
     if (item.url === url) {
       item.status = status;
+      item.time = ((new Date().getTime()) - time) / 1000;
+      if (message) {
+        item.message = message;
+      }
     }
     return item;
   })
@@ -58,6 +66,7 @@ async function getWebStatus(url) {
 }
  
 (async () => {
-  console.log('Start!\n', dataPath);
+  console.log('Start! ', dataPath);
+  console.log();
   await getWebStatus();
 })();

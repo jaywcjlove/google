@@ -1,780 +1,1001 @@
 {
-  "update": 1577722056368,
+  "update": 1577725206435,
   "data": [
     {
       "url": "https://www.teoma.com",
       "type": "web",
-      "status": 408
+      "status": 408,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded",
+      "time": 30.354
     },
     {
       "url": "https://intelme.com",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 4.458
     },
     {
       "url": "https://skyn3t.in/srx",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded",
+      "time": 30.407
     },
     {
       "url": "https://suche.dasnetzundich.de",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.129
     },
     {
       "url": "https://searx.com.au",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.686
     },
     {
       "url": "https://burtrum.org/searx",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.666,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://roteserver.de/searx",
       "type": "web",
-      "status": 200
+      "status": 0,
+      "time": 5.864,
+      "message": "Error - net::ERR_NETWORK_CHANGED at https://roteserver.de/searx"
     },
     {
       "url": "https://srx.sx",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 8.465
     },
     {
       "url": "https://search.paulla.asso.fr",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 21.011
     },
     {
       "url": "https://search.spaeth.me",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 15.76
     },
     {
       "url": "https://seeks.hsbp.org",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 29.231
     },
     {
       "url": "https://searx.linux.pizza",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.481,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searx.gotrust.de",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 10.396
     },
     {
       "url": "https://trovu.komun.org",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 24.781
     },
     {
       "url": "http://so.hiqq.com.cn",
       "type": "scholar",
-      "status": 200
+      "status": 200,
+      "time": 12.422
     },
     {
       "url": "https://sci-hub.org.cn",
       "type": "scholar",
-      "status": 200
+      "status": 200,
+      "time": 2.05
     },
     {
       "url": "https://scholar.123admin.com",
       "type": "scholar",
-      "status": 200
+      "status": 200,
+      "time": 2.659
     },
     {
       "url": "http://www.ndtsg.com",
       "type": "scholar",
-      "status": 200
+      "status": 200,
+      "time": 3.293
     },
     {
       "url": "https://www.80xueshu.com",
       "type": "scholar",
-      "status": 200
+      "status": 200,
+      "time": 6.432
     },
     {
       "url": "https://xue.glgoo.org",
       "type": "scholar",
-      "status": 200
+      "status": 200,
+      "time": 3.419
     },
     {
       "url": "https://s0.unllu.com/",
       "type": "scholar",
-      "status": 200
+      "status": 200,
+      "time": 4.485
     },
     {
       "url": "https://xs.zb-welding.com/scholar",
       "type": "scholar",
-      "status": 200
+      "status": 200,
+      "time": 6.888
     },
     {
       "url": "https://searx.operationtulip.com",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 29.469
     },
     {
       "url": "https://search.st8.at",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.706,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://mijisou.com",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 14.164
     },
     {
       "url": "https://haku.ahmia.fi",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 17.662
     },
     {
       "url": "https://google.nekoemtp.workers.dev",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.423,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "http://baidu01.puataiwan.com",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.571,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://gg.smiling.workers.dev",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.472,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://www.gosearchresults.com",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 15.793
     },
     {
       "url": "https://lite.qwant.com",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 11.111
     },
     {
       "url": "https://seeres.com",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 2.92
     },
     {
       "url": "https://1.52qu.xyz",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.575,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://guge.one",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 4.818
     },
     {
       "url": "https://nav.hiqq.com.cn/twy",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.676,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://g.luciaz.me",
       "type": "web",
-      "status": 200
+      "status": 300,
+      "time": 4.951
     },
     {
       "url": "https://searx.xyz",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 27.582
     },
     {
       "url": "https://www.kuaimen.bid",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 8.741
     },
     {
       "url": "https://4.52qu.xyz",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.638,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://b.glgoo.top/scholar",
       "type": "web",
-      "status": 200
+      "status": 300,
+      "time": 5.531
     },
     {
       "url": "https://c.glgoo.top/scholar",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 4.357
     },
     {
       "url": "https://cc.glgoo.top/scholar",
       "type": "web",
-      "status": 200
+      "status": 300,
+      "time": 4.232
     },
     {
       "url": "https://guge.schove.com",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.644
     },
     {
       "url": "http://so.hiqq.com.cn",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 12.422
     },
     {
       "url": "http://nav.hiqq.com.cn/twy",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.483,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searx.be",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 9.442
     },
     {
       "url": "https://searx.elukerio.org",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 22.013
     },
     {
       "url": "https://searx.libmail.eu",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.455,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://search.snopyta.org",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.559,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searx.win",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 14.127
     },
     {
       "url": "https://search.galaxy.cat",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.857,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searx.info",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.434,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searx.tuxcloud.net",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 28.507
     },
     {
       "url": "https://searx.prvcy.eu",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.587,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://search.stinpriza.org",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.638,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searx.site",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 14.161
     },
     {
       "url": "https://searx.mastodontech.de",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.609,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searx.solusar.de",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 10.479
     },
     {
       "url": "https://search.mdosch.de",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 9.264
     },
     {
       "url": "https://searx.decatec.de",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 23.72
     },
     {
       "url": "https://searx.dresden.network",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.659,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://search.disroot.org",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.208
     },
     {
       "url": "https://rapu.nz",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.619
     },
     {
       "url": "https://searx.pofilo.fr",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.054
     },
     {
       "url": "https://unmonito.red",
       "type": "web",
-      "status": 200
+      "status": 0,
+      "time": 2.211,
+      "message": "Error - net::ERR_HTTP2_PROTOCOL_ERROR at https://unmonito.red"
     },
     {
       "url": "https://searx.canox.net",
       "type": "web",
-      "status": 200
+      "status": 502,
+      "time": 4.27
     },
     {
       "url": "https://search.modalogi.com",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 7.694
     },
     {
       "url": "https://searx.pwoss.org",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.614,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searx.hlfh.space",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.583,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searx.xyz",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 27.582
     },
     {
       "url": "https://searx.nnto.net",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 16.134
     },
     {
       "url": "https://search.biboumail.fr",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 15.354
     },
     {
       "url": "https://www.perfectpixel.de/searx",
       "type": "web",
-      "status": 200
+      "status": 300,
+      "time": 7.836
     },
     {
       "url": "https://searx.zareldyn.net",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 6.556
     },
     {
       "url": "https://searx.li",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.604,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searx.envs.net",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 4.087
     },
     {
       "url": "https://dc.ax",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 9.665
     },
     {
       "url": "https://wtf.roflcopter.fr/searx",
       "type": "web",
-      "status": 200
+      "status": 300,
+      "time": 19.353
     },
     {
       "url": "https://s.cmd.gg",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 21.986
     },
     {
       "url": "https://searx.anongoth.pl",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 19.779
     },
     {
       "url": "https://searx.fr32k.de",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.234
     },
     {
       "url": "https://searx.nakhan.net",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.622,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://search.datensturm.net",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 3.401
     },
     {
       "url": "https://searx.openpandora.org",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.303
     },
     {
       "url": "https://spot.ecloud.global",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 19.669
     },
     {
       "url": "https://search.lgbtq.cool",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 18.256
     },
     {
       "url": "https://suche.uferwerk.org",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 27.095
     },
     {
       "url": "https://searx.openhoofd.nl",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.01
     },
     {
       "url": "https://searx.ru",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.69,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searx.targaryen.house",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 20.893
     },
     {
       "url": "https://le-dahut.com/searx",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 13.945
     },
     {
       "url": "https://search.moravit.com",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 17.207
     },
     {
       "url": "https://zoek.anchel.nl",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 17.801
     },
     {
       "url": "https://search.seds.nl",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 13.249
     },
     {
       "url": "https://openworlds.info",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.709
     },
     {
       "url": "https://dynabyte.ca",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 15.393
     },
     {
       "url": "https://searx.foo.li",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 13.089
     },
     {
       "url": "https://www.skyn3t.in/search",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 31.104,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searx.me",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.544,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://www.searx.de",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 9.083
     },
     {
       "url": "https://ai.deafpray.wtf/searx",
       "type": "web",
-      "status": 200
+      "status": 300,
+      "time": 16.822
     },
     {
       "url": "https://searx.mxchange.org",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 4.179
     },
     {
       "url": "https://timdor.noip.me/searx",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 8.883
     },
     {
       "url": "https://search.activemail.de",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.009
     },
     {
       "url": "https://bamboozle.it",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 4.281
     },
     {
       "url": "https://searx.ouahpiti.info",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.511,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searx.laquadrature.net",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.055
     },
     {
       "url": "https://search.poal.co",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 9.925
     },
     {
       "url": "https://null.media",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.713,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://search.dominikschroeck.de",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 10.314
     },
     {
       "url": "https://searx.lynnesbian.space",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 11.517
     },
     {
       "url": "https://searx.john-at-me.net",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.872
     },
     {
       "url": "https://search.anonymize.com",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.487,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://search.azkware.net",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 26.596
     },
     {
       "url": "https://searx.everdot.org",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.386,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://jsearch.pw",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 6.597
     },
     {
       "url": "https://www.searxs.eu",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.461,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://search.nebulacentre.net",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.477,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://search.fossdaily.xyz",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 12.112
     },
     {
       "url": "https://search.wxzm.sx",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.579,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://search.gibberfish.org",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 6.042
     },
     {
       "url": "https://goso.ga",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 6.533
     },
     {
       "url": "https://searx.lavatech.top",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.673,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searchx.mobi",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.925
     },
     {
       "url": "https://searx.run",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.432,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://searx.wegeeks.win",
       "type": "web",
-      "status": 200
+      "status": 200,
+      "time": 5.158
     },
     {
       "url": "https://searx.world",
       "type": "web",
-      "status": 200
+      "status": 408,
+      "time": 30.473,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://g2.wen.lu",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.453,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "http://gc.ihuan.me",
       "type": "web",
-      "status": 400
+      "status": 0,
+      "time": 0.765,
+      "message": "Error - net::ERR_NAME_NOT_RESOLVED at http://gc.ihuan.me"
     },
     {
       "url": "http://ggss.cf",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.494,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "http://hao.cytbj.com",
       "type": "web",
-      "status": 400
+      "status": 0,
+      "time": 0.639,
+      "message": "Error - net::ERR_CONNECTION_RESET at http://hao.cytbj.com"
     },
     {
       "url": "http://jgoproxy.tk",
       "type": "web",
-      "status": 400
+      "status": 0,
+      "time": 3.435,
+      "message": "TypeError - Cannot read property 'request' of null"
     },
     {
       "url": "http://s.8090st.com",
       "type": "web",
-      "status": 400
+      "status": 0,
+      "time": 0.672,
+      "message": "Error - net::ERR_NAME_NOT_RESOLVED at http://s.8090st.com"
     },
     {
       "url": "https://www.wacao.org",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.363,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "http://www.g363.com",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.524,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "http://g.helloit.info",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.606,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://g.jikewenku.cn",
       "type": "web",
-      "status": 400
+      "status": 0,
+      "time": 0.782,
+      "message": "Error - net::ERR_CONNECTION_RESET at https://g.jikewenku.cn"
     },
     {
       "url": "https://www.guge.xxx",
       "type": "web",
-      "status": 400
+      "status": 0,
+      "time": 1.799,
+      "message": "Error - net::ERR_NAME_NOT_RESOLVED at https://www.guge.xxx"
     },
     {
       "url": "https://g.libnull.com",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.503,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "http://ssdao.cdjltz.com",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.5,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://global.gogfw.com",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.537,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://www.onk6.com",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.406,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "http://www.hntvchina.com",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.414,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://g.zrj766.com",
       "type": "web",
-      "status": 400
+      "status": 0,
+      "time": 0.531,
+      "message": "Error - net::ERR_CONNECTION_REFUSED at https://g.zrj766.com"
     },
     {
       "url": "https://g.alexyang.me",
       "type": "web",
-      "status": 400
+      "status": 0,
+      "time": 0.45,
+      "message": "Error - net::ERR_CONNECTION_REFUSED at https://g.alexyang.me"
     },
     {
       "url": "https://ggso.in",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.41,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "http://www.bjgong.tk",
       "type": "web",
-      "status": 400
+      "status": 0,
+      "time": 2.804,
+      "message": "Error - net::ERR_CONNECTION_REFUSED at http://www.bjgong.tk"
     },
     {
       "url": "http://scholar.hntvchina.com",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.531,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://ggss.ml",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.556,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://fuckgfw.ggss.cf",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.509,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://g.jikewenku.cn",
       "type": "web",
-      "status": 400
+      "status": 0,
+      "time": 0.782,
+      "message": "Error - net::ERR_CONNECTION_RESET at https://g.jikewenku.cn"
     },
     {
       "url": "http://www.mrba.com.cn",
       "type": "web",
-      "status": 400
+      "status": 110,
+      "time": 1.821
     },
     {
       "url": "http://hi18.cn",
       "type": "web",
-      "status": 400
+      "status": 0,
+      "time": 1.764,
+      "message": "Error - net::ERR_CONNECTION_RESET at http://hi18.cn"
     },
     {
       "url": "http://www.gusou.co",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.475,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     },
     {
       "url": "https://fengfei.org",
       "type": "web",
-      "status": 400
+      "status": 408,
+      "time": 30.401,
+      "message": "TimeoutError - Navigation timeout of 30000 ms exceeded"
     }
   ]
 }

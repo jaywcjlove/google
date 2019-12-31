@@ -7,7 +7,7 @@
 }
 
 .body {
-  padding: 12px 10px 60px 18px;
+  padding: 12px 10px 20px 18px;
   font-size: 14px;
   table {
     border-spacing: 0;
@@ -29,9 +29,33 @@
   }
 }
 
+.update {
+  color: #333;
+  font-size: 12px;
+  padding: 0 10px 40px 30px;
+}
+
 .notFound {
   color: #797979;
   a {
     color: #797979;
   }
+}
+
+.status {
+  text-align: center;
+}
+.timeout .status span, .success .status span {
+  padding: 0 2px;
+  border-radius: 3px;
+  font-size: 12px;
+}
+
+.timeout .status span {
+  background-color: #F95C2B;
+  color: #fff;
+}
+.success .status span {
+  background-color: #28a745;
+  color: #fff;
 }
