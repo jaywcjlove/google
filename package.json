@@ -1,11 +1,10 @@
 {
   "name": "guge",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is the Google Mirror Index.",
   "homepage": "https://github.com/jaywcjlove/google",
   "main": "data.json",
   "scripts": {
-    "prepare": "npm run build",
     "get": "node script/status.js",
     "start": "kkt start",
     "build": "kkt build"
