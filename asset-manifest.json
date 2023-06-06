@@ -1,25 +1,15 @@
 {
   "files": {
-    "main.css": "/jaywcjlove/google/static/css/main.803433f3.chunk.css",
-    "main.js": "/jaywcjlove/google/static/js/main.be88fecf.chunk.js",
-    "main.js.map": "/jaywcjlove/google/static/js/main.be88fecf.chunk.js.map",
-    "runtime-main.js": "/jaywcjlove/google/static/js/runtime-main.fcae5c31.js",
-    "runtime-main.js.map": "/jaywcjlove/google/static/js/runtime-main.fcae5c31.js.map",
-    "static/css/2.d363ef9e.chunk.css": "/jaywcjlove/google/static/css/2.d363ef9e.chunk.css",
-    "static/js/2.68cd4ffc.chunk.js": "/jaywcjlove/google/static/js/2.68cd4ffc.chunk.js",
-    "static/js/2.68cd4ffc.chunk.js.map": "/jaywcjlove/google/static/js/2.68cd4ffc.chunk.js.map",
+    "main.css": "/jaywcjlove/google/static/css/main.89957db5.css",
+    "main.js": "/jaywcjlove/google/static/js/main.1eae05c7.js",
+    "static/js/335.03db35cf.chunk.js": "/jaywcjlove/google/static/js/335.03db35cf.chunk.js",
     "index.html": "/jaywcjlove/google/index.html",
-    "precache-manifest.5aa3c4d4c4253eb1c60d24cb894e951c.js": "/jaywcjlove/google/precache-manifest.5aa3c4d4c4253eb1c60d24cb894e951c.js",
-    "service-worker.js": "/jaywcjlove/google/service-worker.js",
-    "static/css/2.d363ef9e.chunk.css.map": "/jaywcjlove/google/static/css/2.d363ef9e.chunk.css.map",
-    "static/css/main.803433f3.chunk.css.map": "/jaywcjlove/google/static/css/main.803433f3.chunk.css.map",
-    "static/js/2.68cd4ffc.chunk.js.LICENSE": "/jaywcjlove/google/static/js/2.68cd4ffc.chunk.js.LICENSE"
+    "main.89957db5.css.map": "/jaywcjlove/google/static/css/main.89957db5.css.map",
+    "main.1eae05c7.js.map": "/jaywcjlove/google/static/js/main.1eae05c7.js.map",
+    "335.03db35cf.chunk.js.map": "/jaywcjlove/google/static/js/335.03db35cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.fcae5c31.js",
-    "static/css/2.d363ef9e.chunk.css",
-    "static/js/2.68cd4ffc.chunk.js",
-    "static/css/main.803433f3.chunk.css",
-    "static/js/main.be88fecf.chunk.js"
+    "static/css/main.89957db5.css",
+    "static/js/main.1eae05c7.js"
   ]
 }
