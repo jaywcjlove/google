@@ -1,19 +1,16 @@
 import path from 'path';
-import { Configuration } from 'webpack';
-import { OptionConf } from 'kkt/lib/config/webpack.config';
+import { LoaderConfOptions, WebpackConfiguration } from 'kkt';
+import lessModules from '@kkt/less-modules';
+import scopePluginOptions from '@kkt/scope-plugin-options';
 
-export const moduleScopePluginOpts = [
-  path.resolve(process.cwd(), 'data.json'),
-];
-
-export const loaderOneOf = [
-  [require.resolve('@kkt/loader-less'), {}],
-];
-
-
-export default (conf: Configuration, opts: OptionConf, webpack) => {
-  if (opts.isEnvProduction) {
-    conf.output.publicPath = './';
+export default (conf: WebpackConfiguration, env: 'development' | 'production', options: LoaderConfOptions) => {
+  conf = lessModules(conf, env, options);
+  conf = scopePluginOptions(conf, env, {
+    ...options,
+    allowedFiles: [path.resolve(process.cwd(), 'data.json')],
+  });
+  if (env === 'production') {
+    conf.output = { ...conf.output, publicPath: './' };
   }
   return conf;
 }

@@ -1,7 +1,11 @@
-const puppeteer = require('puppeteer');
-const path = require('path');
-const fs = require('fs-extra');
-const data = require('../data.json');
+import puppeteer from 'puppeteer';
+import path from 'path';
+import fs from 'fs-extra';
+import { createRequire } from "module";
+
+const require = createRequire(import.meta.url); 
+const data = require("../data.json"); 
+
 
 let urlData = [...data.data];
 let dataStatus = [...data.data];
@@ -17,10 +21,10 @@ async function getWebStatus(url) {
     return;
   }
   if (urlData[0] && urlData[0].status === 110) {
-    console.log(':log:', urlData[0].status, url, ((new Date().getTime()) - time) / 1000, '该网站已被拦截');
+    console.log('\x1b[36;1m[log]\x1b[0m', urlData[0].status, url, ((new Date().getTime()) - time) / 1000, '该网站已被拦截');
     return;
   }
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({ headless: 'new' });
   let status = 0;
   try {
     const page = await browser.newPage();
@@ -46,7 +50,31 @@ async function getWebStatus(url) {
     }
   }
   urlData = urlData.filter(m => m.url !== url);
-  console.log(':log:', status, url, ((new Date().getTime()) - time) / 1000, message);
+  let statusText = status;
+  switch (status) {
+    case 200:
+      statusText = `\x1b[32;1m${status}\x1b[0m`;
+      break;
+    case 408:
+      statusText = `\x1b[35;1m${status}\x1b[0m`;
+      break;
+    case 502:
+      statusText = `\x1b[36;1m${status}\x1b[0m`;
+      break;
+    case 404:
+      statusText = `\x1b[34;1m${status}\x1b[0m`;
+      break;
+    case 300:
+      statusText = `\x1b[37;1m${status}\x1b[0m`;
+      break;
+    case 0:
+      statusText = `\x1b[31;1m${status}\x1b[0m`;
+      break;
+    default:
+      statusText = status;
+      break;
+  }
+  console.log('\x1b[36;1m[log]\x1b[0m', statusText, url, ((new Date().getTime()) - time) / 1000, message);
   await browser.close();
   dataStatus = dataStatus.map(item => {
     if (item.url === url) {

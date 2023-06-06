@@ -15,7 +15,7 @@ interface DataItem {
   url: string;
 }
 
-export default () => {
+export default function App() {
   return (
     <div className={styles.warpper}>
       <GitHubCorners size={62} fixed href="https://github.com/jaywcjlove/google" />
